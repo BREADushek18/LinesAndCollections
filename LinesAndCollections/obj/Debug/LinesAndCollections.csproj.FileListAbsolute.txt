@@ -1,0 +1,8 @@
+E:\temp\ПРОГИ VS\LinesAndCollections\LinesAndCollections\obj\Debug\LinesAndCollections.csproj.AssemblyReference.cache
+E:\temp\ПРОГИ VS\LinesAndCollections\LinesAndCollections\obj\Debug\LinesAndCollections.csproj.SuggestedBindingRedirects.cache
+E:\temp\ПРОГИ VS\LinesAndCollections\LinesAndCollections\obj\Debug\LinesAndCollections.csproj.CoreCompileInputs.cache
+E:\temp\ПРОГИ VS\LinesAndCollections\LinesAndCollections\bin\Debug\LinesAndCollections.exe.config
+E:\temp\ПРОГИ VS\LinesAndCollections\LinesAndCollections\bin\Debug\LinesAndCollections.exe
+E:\temp\ПРОГИ VS\LinesAndCollections\LinesAndCollections\bin\Debug\LinesAndCollections.pdb
+E:\temp\ПРОГИ VS\LinesAndCollections\LinesAndCollections\obj\Debug\LinesAndCollections.exe
+E:\temp\ПРОГИ VS\LinesAndCollections\LinesAndCollections\obj\Debug\LinesAndCollections.pdb
